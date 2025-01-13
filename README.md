@@ -1,1 +1,1 @@
-I am being told to proove that I can use Github
+I am being told to prove that I can use GitHub
